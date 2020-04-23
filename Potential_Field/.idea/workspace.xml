@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="abb6645f-ab35-41a4-89ff-9de1a1a01620" name="默认更改列表" comment="" />
+    <list default="true" id="a37acfe2-958d-48ad-a847-f22d51d5d0c0" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/../RRT/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RRT/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +19,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1avsH1KTtg6m79wpwECm7cZ1w0C" />
+  <component name="ProjectId" id="1avzpesBXdj815CpkFjUGRLREV6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -27,11 +29,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
-    <configuration name="rrt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="RRT" />
+    <configuration name="field" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Potential_Field" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -43,7 +46,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rrt.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/field.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -54,7 +57,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.rrt" />
+        <item itemvalue="Python.field" />
       </list>
     </recent_temporary>
   </component>
@@ -75,12 +78,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="abb6645f-ab35-41a4-89ff-9de1a1a01620" name="默认更改列表" comment="" />
-      <created>1587627310474</created>
+      <changelist id="a37acfe2-958d-48ad-a847-f22d51d5d0c0" name="默认更改列表" comment="" />
+      <created>1587631039515</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1587627310474</updated>
-      <workItem from="1587627311602" duration="3691000" />
+      <updated>1587631039515</updated>
+      <workItem from="1587631052103" duration="2468000" />
     </task>
     <servers />
   </component>
@@ -88,55 +91,64 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="337" key="GridCell.Tab.0.bottom" timestamp="1587631016356">
+    <state width="1877" height="273" key="GridCell.Tab.0.bottom" timestamp="1587633586225">
       <screen x="1920" y="9" width="1920" height="1040" />
     </state>
-    <state width="1877" height="337" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.9.1920.1040@1920.9.1920.1040" timestamp="1587631016356" />
-    <state width="1877" height="337" key="GridCell.Tab.0.center" timestamp="1587631016356">
+    <state width="1877" height="273" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.9.1920.1040@1920.9.1920.1040" timestamp="1587633586225" />
+    <state width="1877" height="273" key="GridCell.Tab.0.center" timestamp="1587633586225">
       <screen x="1920" y="9" width="1920" height="1040" />
     </state>
-    <state width="1877" height="337" key="GridCell.Tab.0.center/0.0.1280.680/1920.9.1920.1040@1920.9.1920.1040" timestamp="1587631016356" />
-    <state width="1877" height="337" key="GridCell.Tab.0.left" timestamp="1587631016356">
+    <state width="1877" height="273" key="GridCell.Tab.0.center/0.0.1280.680/1920.9.1920.1040@1920.9.1920.1040" timestamp="1587633586225" />
+    <state width="1877" height="273" key="GridCell.Tab.0.left" timestamp="1587633586225">
       <screen x="1920" y="9" width="1920" height="1040" />
     </state>
-    <state width="1877" height="337" key="GridCell.Tab.0.left/0.0.1280.680/1920.9.1920.1040@1920.9.1920.1040" timestamp="1587631016356" />
-    <state width="1877" height="337" key="GridCell.Tab.0.right" timestamp="1587631016356">
+    <state width="1877" height="273" key="GridCell.Tab.0.left/0.0.1280.680/1920.9.1920.1040@1920.9.1920.1040" timestamp="1587633586225" />
+    <state width="1877" height="273" key="GridCell.Tab.0.right" timestamp="1587633586225">
       <screen x="1920" y="9" width="1920" height="1040" />
     </state>
-    <state width="1877" height="337" key="GridCell.Tab.0.right/0.0.1280.680/1920.9.1920.1040@1920.9.1920.1040" timestamp="1587631016356" />
-    <state width="1877" height="337" key="GridCell.Tab.1.bottom" timestamp="1587631016359">
+    <state width="1877" height="273" key="GridCell.Tab.0.right/0.0.1280.680/1920.9.1920.1040@1920.9.1920.1040" timestamp="1587633586225" />
+    <state width="1877" height="337" key="GridCell.Tab.1.bottom" timestamp="1587633420519">
       <screen x="1920" y="9" width="1920" height="1040" />
     </state>
-    <state width="1877" height="337" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.9.1920.1040@1920.9.1920.1040" timestamp="1587631016359" />
-    <state width="1877" height="337" key="GridCell.Tab.1.center" timestamp="1587631016357">
+    <state width="1877" height="337" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.9.1920.1040@1920.9.1920.1040" timestamp="1587633420519" />
+    <state width="1877" height="337" key="GridCell.Tab.1.center" timestamp="1587633420519">
       <screen x="1920" y="9" width="1920" height="1040" />
     </state>
-    <state width="1877" height="337" key="GridCell.Tab.1.center/0.0.1280.680/1920.9.1920.1040@1920.9.1920.1040" timestamp="1587631016357" />
-    <state width="1877" height="337" key="GridCell.Tab.1.left" timestamp="1587631016356">
+    <state width="1877" height="337" key="GridCell.Tab.1.center/0.0.1280.680/1920.9.1920.1040@1920.9.1920.1040" timestamp="1587633420519" />
+    <state width="1877" height="337" key="GridCell.Tab.1.left" timestamp="1587633420519">
       <screen x="1920" y="9" width="1920" height="1040" />
     </state>
-    <state width="1877" height="337" key="GridCell.Tab.1.left/0.0.1280.680/1920.9.1920.1040@1920.9.1920.1040" timestamp="1587631016356" />
-    <state width="1877" height="337" key="GridCell.Tab.1.right" timestamp="1587631016358">
+    <state width="1877" height="337" key="GridCell.Tab.1.left/0.0.1280.680/1920.9.1920.1040@1920.9.1920.1040" timestamp="1587633420519" />
+    <state width="1877" height="337" key="GridCell.Tab.1.right" timestamp="1587633420519">
       <screen x="1920" y="9" width="1920" height="1040" />
     </state>
-    <state width="1877" height="337" key="GridCell.Tab.1.right/0.0.1280.680/1920.9.1920.1040@1920.9.1920.1040" timestamp="1587631016358" />
-    <state x="2373" y="170" key="SettingsEditor" timestamp="1587627375288">
+    <state width="1877" height="337" key="GridCell.Tab.1.right/0.0.1280.680/1920.9.1920.1040@1920.9.1920.1040" timestamp="1587633420519" />
+    <state x="2373" y="170" key="SettingsEditor" timestamp="1587631075621">
       <screen x="1920" y="9" width="1920" height="1040" />
     </state>
-    <state x="2373" y="170" key="SettingsEditor/0.0.1280.680/1920.9.1920.1040@1920.9.1920.1040" timestamp="1587627375288" />
+    <state x="2373" y="170" key="SettingsEditor/0.0.1280.680/1920.9.1920.1040@1920.9.1920.1040" timestamp="1587631075621" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1587633257724">
+      <screen x="1920" y="9" width="1920" height="1040" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1280.680/1920.9.1920.1040@1920.9.1920.1040" timestamp="1587633257724" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/rrt.py</url>
-          <line>8</line>
+          <url>file://$PROJECT_DIR$/field.py</url>
+          <line>50</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/field.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/RRT$rrt.coverage" NAME="rrt Coverage Results" MODIFIED="1587630679481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Potential_Field$field.coverage" NAME="field Coverage Results" MODIFIED="1587633586212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
